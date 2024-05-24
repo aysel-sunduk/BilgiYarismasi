@@ -1,2 +1,2 @@
 ## Bilgi Yarışması
-- Video izleyerek JavaScript ile basitçe bilgi yarışması yazdım.
+- Video izleyerek HTML,CSS ve JavaScript dillerini kullanarak basitçe bilgi yarışması yazdım.
